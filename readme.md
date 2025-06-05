@@ -1,8 +1,7 @@
-## Spring Authentication Server
-A secure authentication server built with Spring Boot, JWT, and PostgreSQL.
+## Spring with Kafka
+Spring boot integrated with Apache Kafka for event-driven communication.
+
 ### Setup
-
-
 Clone repository
 ```bash
 git clone https://github.com/ahmadisyraf/spring-with-kafka.git
